@@ -15,5 +15,8 @@ Modificar el componente anterior y enviar mediante props el valor “My friend�
 - React
 - Bootstrap
 
+## ANOTACIONES 🔍
+- Olvide cambiar el titulo de la pagina por el numero de ejercicio.
+
 ## Autor 🙋‍♂️
 - [Agustin Baza](https://github.com/agustinbaza)
