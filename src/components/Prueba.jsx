@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Saludo(props) {
   return (
@@ -9,4 +9,3 @@ function Saludo(props) {
 }
 
 export default Saludo;
-
